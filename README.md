@@ -23,37 +23,37 @@
 ### Comparsions with Bonneel et al. 
 - WCT Wave and WCT Candy
 <p align='center'>  
-  <img src='imgs/OurVSPro-Prec/OvSa.gif' width='440'/>  
-  <img src='imgs/OurVSPro-Prec/OvSb.gif' width='440'/>
+  <img src='imgs/OurVSSig/OvSa.gif' width='440'/>  
+  <img src='imgs/OurVSSig/OvSb.gif' width='440'/>
 </p>
 
 - Fast-neural-style Princess and CycleGAN Photo-to-Ukiyoe
 <p align='center'>
-  <img src='imgs/OurVSPro-Prec/OvSc.gif' width='440'/>
-  <img src='imgs/OurVSPro-Prec/OvSd.gif' width='440'/>
+  <img src='imgs/OurVSSig/OvSc.gif' width='440'/>
+  <img src='imgs/OurVSSig/OvSd.gif' width='440'/>
 </p>
 
 - Fast-neural-style Udnie and Colorization
 <p align='center'>
-  <img src='imgs/OurVSPro-Prec/OvSe.gif' width='440'/>
-  <img src='imgs/OurVSPro-Prec/OvSf.gif' width='440'/>
+  <img src='imgs/OurVSSig/OvSe.gif' width='440'/>
+  <img src='imgs/OurVSSig/OvSf.gif' width='440'/>
 </p>
 
 ### Comparsions with Lai et al. 
 - Fast-neural-style Udnie and HDRToning
 <p align='center'>  
-  <img src='imgs/OurVSPro-Prec/OvEa.gif' width='440'/>  
-  <img src='imgs/OurVSPro-Prec/OvEb.gif' width='440'/>
+  <img src='imgs/OurVSECCV/OvEa.gif' width='440'/>  
+  <img src='imgs/OurVSECCV/OvEb.gif' width='440'/>
 </p>
 
 - HDRToning and WCT Feathers
 <p align='center'>
-  <img src='imgs/OurVSPro-Prec/OvEc.gif' width='440'/>
-  <img src='imgs/OurVSPro-Prec/OvEd.gif' width='440'/>
+  <img src='imgs/OurVSECCV/OvEc.gif' width='440'/>
+  <img src='imgs/OurVSECCV/OvEd.gif' width='440'/>
 </p>
 
 - Intrinsic Shading and WCT Wave
 <p align='center'>
-  <img src='imgs/OurVSPro-Prec/OvEe.gif' width='440'/>
-  <img src='imgs/OurVSPro-Prec/OvEf.gif' width='440'/>
+  <img src='imgs/OurVSECCV/OvEe.gif' width='440'/>
+  <img src='imgs/OurVSECCV/OvEf.gif' width='440'/>
 </p>

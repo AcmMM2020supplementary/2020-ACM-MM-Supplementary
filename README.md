@@ -1,4 +1,17 @@
 # 2020-ACM-MM-Supplementary
+Simply using the image-based algorithm to process the frame sequence independently always leads the unstable
+problems, shown in left part of animations. Our model takes the flicking frames as input and produces it’s coherent
+version. Our results are on the **right part** while the compared results are on the **left part**.
+<p align='center'>  
+  <img src='imgs/Abstract/ColorConstancy.gif' width='440'/>  
+  <img src='imgs/Abstract/InsDec.gif' width='440'/>
+</p>
+
+<p align='center'>
+  <img src='imgs/Abstract/color.gif' width='440'/>
+  <img src='imgs/Abstract/cycleGan.gif' width='440'/>
+</p>
+
 ## Introduction
 This is some source code and additional visualization examples of our TDMS-Net, *Temporal Denoising Masks Synthesis Network for Learning Blind Video Temporal Consistency*.
 
@@ -26,7 +39,7 @@ Simply using the image-based method to solve the video processing task frame-by-
 </p>
 
 ## Comparsions with Pre-processed Video
-Our results are on the left part while the compared results are on the right part.
+Our results are on the **left part** while the compared results are on the **right part**.
 
 - WCT Sketch and WCT Antimonocromatismo
 <p align='center'>  
@@ -46,7 +59,7 @@ Our results are on the left part while the compared results are on the right par
   <img src='imgs/OurVSPro-Prec/OvPf.gif' width='440'/>
 </p>
 
-### Comparsions with Bonneel et al. 
+## Comparsions with Bonneel et al. 
 - WCT Wave and WCT Candy
 <p align='center'>  
   <img src='imgs/OurVSSig/OvSa.gif' width='440'/>  
@@ -65,7 +78,7 @@ Our results are on the left part while the compared results are on the right par
   <img src='imgs/OurVSSig/OvSf.gif' width='440'/>
 </p>
 
-### Comparsions with Lai et al. 
+## Comparsions with Lai et al. 
 - Fast-neural-style Udnie and HDRToning
 <p align='center'>  
   <img src='imgs/OurVSECCV/OvEa.gif' width='440'/>  

@@ -16,6 +16,7 @@ version. Our results are on the **right part** while the compared results are on
 This is some source code and additional visualization examples of our TDMS-Net, *Temporal Denoising Masks Synthesis Network for Learning Blind Video Temporal Consistency*.
 
 **Motivation of Our Work**
+
 Simply using the image-based method to solve the video processing task frame-by-frame may always lead the temporal consistent problem. Given unstable pre-processed frames, solving the flickering problem is viewed as a temporal dimension denoise task. Our ternary temporal denoising mask synthesis network (TDMS-Net) is proposed to predict the motion mask, soft optical flow and the refining mask to construct our target frame. The TDMS-Net learns the temporal consistency from the original video and apply the learned temporal feature to reprocess the output frames of image-based method. The TDMS-Net is blind to the pre-process method. 
 
 **Insight of Our Work**

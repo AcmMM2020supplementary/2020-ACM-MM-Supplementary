@@ -11,7 +11,7 @@ Simply using the image-based method to solve the video processing task frame-by-
 3. The dual flow is used to teach our model to process the foreground area and background area separately. By this way the model can modify the pre-processed frames accurately while other methods solve the problem roughly.
 4. A new metric based on the video tracking method is proposed to evaluate the enhancement effect of our model perceptual aspect and temporal aspect.
 <p align='center'>  
-  <img src='imgs/architechture.pdf' width='880'/>  
+  <img src='imgs/architechture.PNG' width='880'/>  
 </p>
 
 ## results

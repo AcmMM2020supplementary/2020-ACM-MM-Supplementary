@@ -31,15 +31,15 @@ Simply using the image-based method to solve the video processing task frame-by-
 ## results
 More quantity results can be found in [results.xlsx](results).
 <p align='center'>
-  <img src='imgs/TemporalConsistency.PNG'/>  
+  <img src='imgs/table1.PNG'/>  
 </p>
 
 <p align='center'>  
-  <img src='imgs/IOU.PNG'/>  
+  <img src='imgs/table2.PNG'/>  
 </p>
 
 <p align='center'>  
-  <img src='imgs/Composited.PNG'/>  
+  <img src='imgs/table3.PNG'/>  
 </p>
 
 ## Comparsions with Pre-processed Video

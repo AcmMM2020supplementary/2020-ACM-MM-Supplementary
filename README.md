@@ -44,7 +44,7 @@ More quantity results can be found in [results.xlsx](results).
 
 ## Comparsions with Pre-processed Video
 Our results are on the **left part** while the compared results are on the **right part**.
-
+The comparison between the results of TDMS-Net (left) and the pre-processed video (right). There are many flickering area in the pre-processed video. The TDMS-Net can take advantage of the temporal features to eliminate the unstable area
 - WCT Sketch and WCT Antimonocromatismo
 <p align='center'>  
   <img src='imgs/OurVSPro-Prec/OvPa.gif' width='440'/>  
@@ -64,6 +64,8 @@ Our results are on the **left part** while the compared results are on the **rig
 </p>
 
 ## Comparsions with Bonneel et al. 
+Our results are on the **left part** while the compared results are on the **right part**.
+The comparison between the results of TDMS-Net (left) and the results of Bonneel et al. (right). The method proposed by Bonneel et al. solves the flickering problem at the cost of perceptual quality. Many content features (color, illumination, shapes of objects) are lost in their results.
 - WCT Wave and WCT Candy
 <p align='center'>  
   <img src='imgs/OurVSSig/OvSa.gif' width='440'/>  
@@ -83,6 +85,8 @@ Our results are on the **left part** while the compared results are on the **rig
 </p>
 
 ## Comparsions with Lai et al. 
+Our results are on the **left part** while the compared results are on the **right part**.
+The comparison between the results of TDMS-Net (left) and the results of Lai et al. (right). TDMS-Net is more effective to solve the flickering problem. There are some less obvious flickering area in the results of Lai et al. while TDMS-Net can suppress the flickering problem to a level that is not visible to the human eyes.
 - Fast-neural-style Udnie and HDRToning
 <p align='center'>  
   <img src='imgs/OurVSECCV/OvEa.gif' width='440'/>  

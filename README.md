@@ -29,7 +29,7 @@ Simply using the image-based method to solve the video processing task frame-by-
 </p>
 
 ## results
-<p align='center'>  
+More quantity results can be found in [results.csv](results).
   <img src='imgs/TemporalConsistency.PNG'/>  
 </p>
 <p align='center'>  

@@ -29,12 +29,15 @@ Simply using the image-based method to solve the video processing task frame-by-
 </p>
 
 ## results
-More quantity results can be found in [results.csv](results).
+More quantity results can be found in [results.xlsx](results).
+</p>
   <img src='imgs/TemporalConsistency.PNG'/>  
 </p>
+
 <p align='center'>  
   <img src='imgs/IOU.PNG'/>  
 </p>
+
 <p align='center'>  
   <img src='imgs/Composited.PNG'/>  
 </p>

@@ -30,7 +30,7 @@ Simply using the image-based method to solve the video processing task frame-by-
 
 ## results
 More quantity results can be found in [results.xlsx](results).
-</p align='center'>
+<p align='center'>
   <img src='imgs/TemporalConsistency.PNG'/>  
 </p>
 
